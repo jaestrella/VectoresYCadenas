@@ -19,5 +19,12 @@ void pedirVector(int vector[], int tam);
  * deben mostrarse
  */
 void mostrarVector(int vector[], int tam);
-
+/**
+ * funcion que invierte un vector
+ */
+void invertirVector(int vector[], int tam);
+/**
+ * funcion que muestra numeros aleatorios
+ */
+void pedirVectorRandom(int vector[], int tam);
 #endif /* FUNCIONES_H_ */
